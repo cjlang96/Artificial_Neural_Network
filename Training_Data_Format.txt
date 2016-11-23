@@ -1,0 +1,15 @@
+number of data points (num_data)
+number of inputs (num_input)
+data 1 input 1
+data 1 input 2
+.
+.
+.
+data 1 input num_input
+data 1 output
+data 2 input 1
+.
+.
+.
+data num_data input num_input
+data num_data output
